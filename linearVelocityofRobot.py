@@ -1,5 +1,5 @@
-###### to calculate the linear velocity of my robot ######
-############## Zahra Ghasemi - 955367022 #################
+###### to calculate the linear velocity of my robotic arm ######
+############## Zahra Ghasemi - 955367022 #######################
 
 import math
 import numpy as np
